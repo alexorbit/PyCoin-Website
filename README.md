@@ -1,1 +1,1 @@
-PyCoin-Website
+PYCOIN
