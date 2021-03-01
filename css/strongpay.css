@@ -6,3 +6,22 @@ a.nav-link.active {
   background-color: #D8D8D8!important;
   border-left-color:#ff6600!important;
 }
+.mb-4 {
+  display:none ;
+  width: 300px;
+  height: 90px;
+  background: url(https://raw.githubusercontent.com/stronghands-official/assets/main/strongpay-home-logo.svg)!important;
+  background-size: 300px 82px;
+}
+
+div.col.text-center {
+  display:auto ;
+  width: 300px;
+  height: 190px;
+    background: url(https://raw.githubusercontent.com/stronghands-official/assets/main/strongpay-home-logo.svg)no-repeat center!important;
+  background-size: 300px 82px;
+}
+
+h1.h2.mb-3 {
+  display:none;
+}
