@@ -7,7 +7,7 @@ a.nav-link.active {
   border-left-color:#ff6600!important;
 }
 .mb-4 {
-  display:none ;
+  display:none!important;
   width: 300px;
   height: 90px;
   background: url(https://raw.githubusercontent.com/stronghands-official/assets/main/strongpay-home-logo.svg)!important;
@@ -18,7 +18,7 @@ div.col.text-center {
   display:auto ;
   width: 300px!important;
   height: 190px!important;
-    background: url(https://raw.githubusercontent.com/stronghands-official/assets/main/strongpay-home-logo.svg)no-repeat center!important;
+    background: url(https://raw.githubusercontent.com/stronghands-official/assets/main/strongpay-home-logo.svg) no-repeat center!important;
   background-size: 200px 82px!important;
 }
 
