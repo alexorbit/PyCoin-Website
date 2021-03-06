@@ -131,13 +131,16 @@ canvas {
 
 .action-button {
     color: #fff!important;
-    background-color: #f60!important;
-    border-color: #f60!important;
+    background-color: #fc0!important;
+    border-color: #fc0!important;
     }
 
 .timer-row {
-background-color: #f60!important;
+background-color: #fc0!important;
     border-color: #fc0!important;
+}
+.payment-tabs__slider {
+background:#fc0!important;
 }
 .powered__by__btcpayserver {
 display:none!important;
