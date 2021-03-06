@@ -134,7 +134,9 @@ canvas {
     background-color: #ffa200!important;
     border-color: #ffa200!important;
     }
-
+.header__icon {
+    margin-left:25%!important;
+}
 .timer-row {
 background-color: #ffa200!important;
     border-color: #ffa200!important;
